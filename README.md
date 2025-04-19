@@ -10,7 +10,7 @@
 
 The STS3x-DIS is Sensirion’s new high accuracy digital temperature sensor. It relies on the industry proven CMOSens® technology, providing for increased intelligence, reliability and improved accuracy specifications compared to its predecessors. Its functionality includes enhanced signal processing, two distinctive and user selectable I2C addresses and communication speeds of up to 1 MHz. The DFN package has a footprint of 2.5 x 2.5 mm2 while keeping a height of 0.9 mm. This allows for integration of the STS3x-DIS into a great variety of applications.Additionally, the wide supply voltage range of 2.15 V to 5.5 V guarantees compatibility with a wide range of applications. All in all, the STS3x-DIS incorporates more than 15 years of Sensirion’s digital sensor know-how.
 
-LibDriver STS3X is the full function driver of STS3X launched by LibDriver.It provides functions of temperature continuous mode reading and temperature single mode reading. LibDriver is MISRA compliant.
+LibDriver STS3X is a full-featured driver of STS3X launched by LibDriver.It provides functions of temperature continuous mode reading and temperature single mode reading. LibDriver is MISRA compliant.
 
 ### Table of Contents
 
